@@ -25,7 +25,7 @@
             <configuration>
               <transformers>
                 <transformer>
-                  <mainClass>helloworldmvc.main.Main</mainClass>
+                  <mainClass>org.helloworldmvc.main.Main</mainClass>
                 </transformer>
               </transformers>
             </configuration>
